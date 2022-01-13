@@ -16,5 +16,4 @@
 6. 35a058fb3 main: configure credentials from the CLI config file
    c0b176109 prevent log output during init
    8364383c3 Push plugin discovery down into command package
-7. Автор функции Martin Atkins <mart@degeneration.co.uk>
-
+7. Автором функции является Martin Atkins <mart@degeneration.co.uk>
