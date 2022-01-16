@@ -1,4 +1,4 @@
-й# DO-netology-2.4
+# DO-netology-2.4
 1. Полный хэш коммита aefea:
 
    aefead2207ef7e2aa5dc81a34aedf0cad4c32545 , комментарий   Update CHANGELOG.md
